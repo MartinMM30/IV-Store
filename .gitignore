@@ -1,0 +1,4 @@
+.env*
+node_modules/
+.next/
+*OPENAI_API_KEY*
